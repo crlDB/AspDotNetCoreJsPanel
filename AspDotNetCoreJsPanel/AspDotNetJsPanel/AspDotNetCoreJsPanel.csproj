@@ -19,6 +19,7 @@
     <Folder Include="Src\d.ts\" />
     <Folder Include="Src\js\" />
     <Folder Include="Src\img\" />
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>
